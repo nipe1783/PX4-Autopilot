@@ -349,7 +349,8 @@
               "tailsitter",
               "tiltrotor",
               "r1_rover",
-              "boat"
+              "boat",
+              "uas"
             ],
             "default": "iris"
         },
@@ -365,7 +366,8 @@
                 "sonoma_raceway",
                 "warehouse",
                 "windy",
-                "yosemite"
+                "yosemite",
+                "field"
             ],
             "default": "empty"
         }

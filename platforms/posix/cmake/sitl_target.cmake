@@ -177,6 +177,7 @@ set(models
 	typhoon_h480_ctrlalloc
 	uuv_bluerov2_heavy
 	uuv_hippocampus
+	uas
 )
 
 set(worlds
@@ -189,6 +190,7 @@ set(worlds
 	warehouse
 	windy
 	yosemite
+	field
 )
 
 set(all_posix_vmd_make_targets)
