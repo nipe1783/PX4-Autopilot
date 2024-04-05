@@ -105,6 +105,7 @@ if(gazebo_FOUND)
 		uuv_bluerov2_heavy
 		uuv_hippocampus
 		uas
+		uas_hitl
 	)
 
 	set(worlds
@@ -119,6 +120,7 @@ if(gazebo_FOUND)
 		windy
 		yosemite
 		field
+		hitl_uas
 	)
 
 	# find corresponding airframes
