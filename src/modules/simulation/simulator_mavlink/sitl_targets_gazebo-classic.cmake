@@ -119,6 +119,7 @@ if(gazebo_FOUND)
 		windy
 		yosemite
 		field
+		hitl_uas
 	)
 
 	# find corresponding airframes
